@@ -1,2 +1,2 @@
 # Gallery
-Simple HTML / CSS Gallery.
+Simple photo Gallery using HTML, CSS and JavaScript.
